@@ -1,0 +1,32 @@
+.pink {
+    background-color: #ffaaaa;
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
+    font-size: 24px;
+    font-family: Helvetica;
+    color: #333333;
+}
+
+img:hover {
+   border: 12px solid black;
+   transform: rotate(180deg);
+   transition-duration: 2000ms;
+}
+
+body {
+   background-color: yellow;
+   color: #eeeeee;
+   padding: 50px;
+}
+
+h1 {
+   color: #560816;
+   font-size: 50px;
+   font-family: Helvetica;
+}
+
+p {
+   font-family: Arial;
+   color: #2b2d35;
+   font-size: 24px;
+}
